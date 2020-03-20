@@ -1,0 +1,58 @@
+
+@import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Saira+Condensed:800,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Six+Caps&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans&display=swap');
+
+body{
+  font-family: 'Fira sans';
+}
+
+h1 {
+  font-family: 'Six Caps';
+letter-spacing: 40px;
+  color: white;
+  font-size: 5em;
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2em;
+  color: white;
+  margin-bottom: 1em;
+  font-family: 'Six Caps';
+  letter-spacing: 3px;
+}
+
+h3 {
+  font-size: 1em;
+  background-color: yellow;
+  color: black;
+  text-align: center;
+}
+
+h4 {
+  font-size: 1em;
+  color: white;
+  text-align: center;
+}
+
+
+p{
+font-family:'Dosis';
+color: white;
+font-size: 1em;
+}
+
+figcaption{
+  font-size: 0,5em;
+  color: white;
+  font-style: italic;
+}
+
+a {
+  font-size: 0,2em;
+  color: black;
+}
