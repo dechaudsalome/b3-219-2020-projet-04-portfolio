@@ -3,7 +3,11 @@ body {
 }
 
 a {
-  color: yellow;
+  color: black;
+}
+
+.project03 {
+  color : yellow;
 }
 
 section {
@@ -39,6 +43,7 @@ padding: 1em;
 .project01 {
   color: white;
 }
+
 
 #main-menu {
   background: yellow;
@@ -112,4 +117,21 @@ left: 0px;
 #main-menu .close-menu {
   display: none;
 }
-}
+
+.cover {
+     display: flex;
+     justify-content: space-evenly;
+ }
+
+ .carousel {
+   width: 100%;
+ }
+
+ .photogirl {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-evenly;
+ margin: 0.5em;
+ flex-basis: 320px;
+ padding: 1em;
+ }
