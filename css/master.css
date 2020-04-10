@@ -6,6 +6,11 @@ a {
   color: black;
 }
 
+a:hover {
+  background-color: yellow;
+  color: black;
+}
+
 .project03 {
   color : yellow;
 }
@@ -134,6 +139,7 @@ left: 0px;
  margin: 0.5em;
  flex-basis: 320px;
  padding: 1em;
+ margin-bottom: 1em;
  }
 
  .magazine {
@@ -143,7 +149,6 @@ left: 0px;
    margin: 1em;
    flex-basis: 700px;
    padding: 5em;
-
  }
 
  .vin {
