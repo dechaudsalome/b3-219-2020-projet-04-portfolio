@@ -136,11 +136,21 @@ left: 0px;
  display: flex;
  flex-wrap: wrap;
  justify-content: space-evenly;
- margin: 0.5em;
- flex-basis: 320px;
  padding: 1em;
  margin-bottom: 1em;
  }
+
+.photogirl img {
+  display: block;
+  margin: 0.5em;
+  flex-basis: 320px;
+}
+
+.magazine img {
+  display: block;
+  margin: 0.5em;
+  flex-basis: 320px;
+}
 
  .magazine {
    display: flex;
